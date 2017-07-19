@@ -1,0 +1,101 @@
+/* Here goes your CSS */
+/* Here goes your CSS */
+body {
+  color: rgb(30,30,30);
+  background-color: rgb(240,240,240);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height: 1.5em;
+  }
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px
+}
+
+p {
+  font-size: 13px;
+}
+
+#btn-red {
+  text-decoration: none;
+  border-style: solid;
+  border-color: #D23333;
+  color: #D23333;
+  padding: 8px;
+  border-radius: 40px;
+}
+
+#btn-red:hover {
+  background-color: #D23333;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(150, 150, 150);
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+#img-circle {
+  border-radius: 50%
+}
+
+.container {
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 2px 2px 3px rgba(10,10,10, 0.2);
+  padding: 30px;
+  margin: 20px;
+}
+
+#book-img {
+  width: 200px;
+}
+
+#profile-logo {
+  width: 35%;
+  border-radius: 50%;
+}
+
+td {
+  padding-bottom: 16px ;
+}
+
+#social-links {
+  text-decoration: none;
+  color: rgb(20,20,20, 0.3);
+}
+
+i.fa {
+  font-size: 25px;
+}
+
+.list-inline {
+  display: inline-block;
+  padding: 0 30px;
+  color: rgb(150, 150, 150);
+}
+
+.text-center {
+  text-align: center;
+}
